@@ -4,7 +4,7 @@
 
 ## About this project
 
-In response to the suggestions and feedback from our community, SAP made available dedicated [ABAP Open Source Namespaces](https://me.sap.com/namespaces/opensource). The list of already existing namespaces is [available in the SAP for Me app](https://me.sap.com/namespaces/opensource). In addition, we list them here, including the development and repair keys for DEMOSYSTEM installations like the [ABAP Cloud Developer Trial](https://community.sap.com/t5/technology-blogs-by-sap/abap-cloud-developer-trial-2022-available-now/ba-p/13598069). If you would like to create an own namespace for an open source project, please reach out to the [SAP Open Source Program Office via e-mail](mailto:ospo@sap.com). We’ll be happy to get your project onboarded. 
+In response to the suggestions and feedback from our community, SAP made available dedicated [ABAP Open Source Namespaces](https://me.sap.com/namespaces/opensource). The list of already existing namespaces is [available in the Development Namespace Application](https://me.sap.com/namespaces/opensource). In addition, we list them here, including the development and repair keys for DEMOSYSTEM installations like the [ABAP Cloud Developer Trial](https://community.sap.com/t5/technology-blogs-by-sap/abap-cloud-developer-trial-2022-available-now/ba-p/13598069). If you would like to create an own namespace for an open source project, please reach out to the [SAP Open Source Program Office via e-mail](mailto:ospo@sap.com). We’ll be happy to get your project onboarded.
 If you have any questions or feedback regarding ABAP Open Source Namespaces, feel free to post a issue here or [reach out to us via e-mail](mailto:ospo@sap.com).
 
 ## Requirements and Setup
@@ -13,7 +13,7 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 
 ## Existing ABAP Open Source Namespaces
 
-**Note:** The development and repair keys listed below are exclusively for ABAP Cloud Developer Trial systems (or any others with 'DEMOSYSTEM' as installation ID). For all other systems, please use the [SAP for Me namespace self-service](https://me.sap.com/namespaces/opensource).
+**Note:** The development and repair keys listed below are exclusively for ABAP Cloud Developer Trial systems (or any others with 'DEMOSYSTEM' as installation ID). For all other systems, please use the [Development Namespace Application](https://me.sap.com/namespaces/opensource).
 
 | Namespace | Description | Project URL | DEMOSYSTEM development key | DEMOSYSTEM repair key |
 | --------- | ----------- | ----------- | -------------------------- | --------------------- |

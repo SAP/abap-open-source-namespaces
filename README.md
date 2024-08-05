@@ -18,7 +18,10 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 | Namespace | Description | Project URL | DEMOSYSTEM development key | DEMOSYSTEM repair key |
 | --------- | ----------- | ----------- | -------------------------- | --------------------- |
 | /APMG/ | Package Manager for ABAP | https://github.com/abapPM | 19377473852358672491 | 41813564412598342476 |
+| /ATRM/ | Transport Request Manager | https://github.com/RegestaItalia/trm-docs | 18531191373370851361 | 00211665563784583720 |
+| /C2A/ | cds2alv - Generate ALV List Reports for CDS Views | https://github.com/rku-it-GmbH/cds2alv | 03688288682419678361 | 37246368571464575750 |
 | /CC4A/ | Code Pal for ABAP Cloud | https://github.com/SAP/code-pal-for-abap-cloud | 19443791570447289803 | 22229904900326563203 |
+| /OTCT/ | Open Tax Compliance Technologies | https://github.com/openTCT | 06491018313941499730 | 20057332490737420344 |
 
 ## Support, Feedback, Contributing
 

@@ -13,9 +13,9 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 
 ## Existing ABAP Open Source Namespaces
 
-**Note:** The development and repair keys listed below are exclusively for ABAP Cloud Developer Trial systems (or any others with 'DEMOSYSTEM' as installation ID). For all other systems, please use the [Development Namespace Application](https://me.sap.com/namespaces/opensource).
+**Note:** The development keys listed below are exclusively for ABAP Cloud Developer Trial systems (or any others with 'DEMOSYSTEM' as installation ID). For all other systems, please use the [Development Namespace Application](https://me.sap.com/namespaces/opensource). The given repair keys should work on any system.
 
-| Namespace | Description | Project URL | DEMOSYSTEM development key | DEMOSYSTEM repair key |
+| Namespace | Description | Project URL | DEMOSYSTEM development key | Repair key |
 | --------- | ----------- | ----------- | -------------------------- | --------------------- |
 | /APMG/ | Package Manager for ABAP | https://github.com/abapPM | 19377473852358672491 | 41813564412598342476 |
 | /ATRM/ | Transport Request Manager | https://github.com/RegestaItalia/trm-docs | 18531191373370851361 | 00211665563784583720 |

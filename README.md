@@ -28,6 +28,7 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 | /CC4A/ | Code Pal for ABAP Cloud | https://github.com/SAP/code-pal-for-abap-cloud | 19443791570447289803 | 22229904900326563203 |
 | /OTCT/ | Open Tax Compliance Technologies | https://github.com/openTCT | 06491018313941499730 | 20057332490737420344 |
 | /RBGRP/ | Rule-based Group | https://github.com/rulebased-group | 01116174434106589083 | 04764198110284863201 |
+| /SGALM/ | Self-hosted Simple Application Lifecycle Manager | https://github.com/sergio-gracia/abap-SimpleALM | 19831896331475332905 | 38673778903560384071 |
 | /XLWB/ | XLSX Workbench | https://github.com/igor-borodin/XLWB | 06882850232695308586 | 40644561731137480400 |
 
 ## Support, Feedback, Contributing

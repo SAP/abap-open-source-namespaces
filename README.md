@@ -26,6 +26,7 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 | /AWSSOL/ | AWS Solution Library | https://github.com/aws-solutions-library-samples | 08428002090177052957 | 06628540192866312031 |
 | /C2A/ | cds2alv - Generate ALV List Reports for CDS Views | https://github.com/rku-it-GmbH/cds2alv | 03688288682419678361 | 37246368571464575750 |
 | /CC4A/ | Code Pal for ABAP Cloud | https://github.com/SAP/code-pal-for-abap-cloud | 19443791570447289803 | 22229904900326563203 |
+| /ORK/ | Open Core Kit | https://github.com/eplamsi | 14037021782659176457 | 25672835621882575754 |
 | /OTCT/ | Open Tax Compliance Technologies | https://github.com/openTCT | 06491018313941499730 | 20057332490737420344 |
 | /RBGRP/ | Rule-based Group | https://github.com/rulebased-group | 01116174434106589083 | 04764198110284863201 |
 | /SGALM/ | Self-hosted Simple Application Lifecycle Manager | https://github.com/sergio-gracia/abap-SimpleALM | 19831896331475332905 | 38673778903560384071 |

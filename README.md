@@ -33,6 +33,34 @@ There are no specific requirements for the request of a new ABAP Open Source Nam
 | /SGALM/ | Self-hosted Simple Application Lifecycle Manager | https://github.com/sergio-gracia/abap-SimpleALM | 19831896331475332905 | 38673778903560384071 |
 | /XLWB/ | XLSX Workbench | https://github.com/igor-borodin/XLWB | 06882850232695308586 | 40644561731137480400 |
 
+## Automated Import to ABAP Cloud Developer Trial
+
+You can import the namespaces including development and repair keys into your A4H System using [abapGit](https://github.com/abapGit/abapGit).
+
+As a prerequisite, you needs to implement the following [abapGit exit](https://docs.abapgit.org/user-guide/reference/exits.html#change-supported-data-objects) to allow write access to the SAP Namespace tables for systems with `DEMOSYSTEM` license number.
+
+
+```abap
+METHOD zif_abapgit_user_exit~change_supported_data_objects.
+
+  DATA lv_license_num TYPE c LENGTH 10.
+  DATA ls_object LIKE LINE OF ct_objects.
+
+  CALL FUNCTION 'SLIC_GET_LICENCE_NUMBER'
+    IMPORTING
+      license_number = lv_license_num.
+
+  IF lv_license_num = 'DEMOSYSTEM'.
+    ls_object-type = 'TABU'.
+    ls_object-name = 'TRNSPACE*'.
+    INSERT ls_object INTO TABLE ct_objects.
+  ENDIF.
+
+ENDMETHOD.
+```
+
+Once the exit is active, start abapGit, create an [Online Repository](https://docs.abapgit.org/user-guide/projects/online/install.html) for `https://github.com/SAP/abap-open-source-namespaces` (use any new local package), and pull the namespace data into your system.
+
 ## Support, Feedback, Contributing
 
 This project is open to feature requests/suggestions, bug reports etc. via [GitHub issues](https://github.com/SAP/abap-open-source-namespaces/issues). Contribution and feedback are encouraged and always welcome. For more information about how to contribute, the project structure, as well as additional contribution information, see our [Contribution Guidelines](CONTRIBUTING.md).

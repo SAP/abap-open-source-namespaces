@@ -1,0 +1,134 @@
+[
+  {
+    "namespace": "/ABAPGIT/",
+    "role": "P",
+    "replicense": "40091955262536808301",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/APMG/",
+    "role": "P",
+    "replicense": "41813564412598342476",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/ATRM/",
+    "role": "P",
+    "replicense": "00211665563784583720",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/AWSEX/",
+    "role": "P",
+    "replicense": "38127449234049228390",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "BERNARDMA",
+    "changedate": "2025-06-21",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/AWSLABS/",
+    "role": "P",
+    "replicense": "06678115934145756969",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "BERNARDMA",
+    "changedate": "2025-06-21",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/AWSSAMP/",
+    "role": "P",
+    "replicense": "39944149741907428904",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/AWSSOL/",
+    "role": "P",
+    "replicense": "06628540192866312031",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/C2A/",
+    "role": "P",
+    "replicense": "37246368571464575750",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/CC4A/",
+    "role": "P",
+    "replicense": "22229904900326563203",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/OTCT/",
+    "role": "P",
+    "replicense": "20057332490737420344",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/RBGRP/",
+    "role": "P",
+    "replicense": "04764198110284863201",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  },
+  {
+    "namespace": "/XLWB/",
+    "role": "P",
+    "replicense": "40644561731137480400",
+    "sscrflag": "",
+    "sapflag": "",
+    "gen_only": "",
+    "changeuser": "SAP",
+    "changedate": "2025-02-04",
+    "mt_type": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "namespace": "/ABAPGIT/",
+    "spras": "E",
+    "descriptn": "abapGit",
+    "owner": "abapGit Community"
+  },
+  {
+    "namespace": "/APMG/",
+    "spras": "E",
+    "descriptn": "apm",
+    "owner": "apm.to Inc."
+  },
+  {
+    "namespace": "/ATRM/",
+    "spras": "E",
+    "descriptn": "Transport Request Manager",
+    "owner": "Regesta Italia"
+  },
+  {
+    "namespace": "/AWSEX/",
+    "spras": "E",
+    "descriptn": "AWS Example Code Library",
+    "owner": "Amazon"
+  },
+  {
+    "namespace": "/AWSLABS/",
+    "spras": "E",
+    "descriptn": "AWS Labs",
+    "owner": "Amazon"
+  },
+  {
+    "namespace": "/AWSSAMP/",
+    "spras": "E",
+    "descriptn": "AWS Samples",
+    "owner": "Amazon"
+  },
+  {
+    "namespace": "/AWSSOL/",
+    "spras": "E",
+    "descriptn": "AWS Solution Library",
+    "owner": "Amazon"
+  },
+  {
+    "namespace": "/C2A/",
+    "spras": "E",
+    "descriptn": "cds2alv - Generate ALV List Reports for CDS Views",
+    "owner": "rku.it GmbH"
+  },
+  {
+    "namespace": "/CC4A/",
+    "spras": "E",
+    "descriptn": "Clean Code for ABAP",
+    "owner": "SAP SE"
+  },
+  {
+    "namespace": "/OTCT/",
+    "spras": "E",
+    "descriptn": "Open Tax Compliance Technologies",
+    "owner": "openTCT"
+  },
+  {
+    "namespace": "/RBGRP/",
+    "spras": "E",
+    "descriptn": "Rule-based Group",
+    "owner": "Rule-based Group"
+  },
+  {
+    "namespace": "/XLWB/",
+    "spras": "E",
+    "descriptn": "XLSX Workbench",
+    "owner": "Igor Borodin"
+  }
+]

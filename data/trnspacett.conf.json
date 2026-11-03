@@ -1,0 +1,8 @@
+{
+  "name": "TRNSPACETT",
+  "skip_initial": false,
+  "type": "TABU",
+  "where": [
+    "NAMESPACE = '/ABAPGIT/' or NAMESPACE = '/APMG/' or NAMESPACE = '/ATRM/' or NAMESPACE = '/AWSEX/' or NAMESPACE = '/AWSLABS/' or NAMESPACE = '/AWSSAMP/' or NAMESPACE = '/AWSSOL/' or NAMESPACE = '/C2A/' or NAMESPACE = '/CC4A/' or NAMESPACE = '/OTCT/' or NAMESPACE = '/RBGRP/' or NAMESPACE = '/XLWB/'"
+  ]
+}

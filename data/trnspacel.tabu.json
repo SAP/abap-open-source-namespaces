@@ -1,0 +1,50 @@
+[
+  {
+    "namespace": "/ABAPGIT/",
+    "devlicense": "23994246593733623882"
+  },
+  {
+    "namespace": "/APMG/",
+    "devlicense": "19377473852358672491"
+  },
+  {
+    "namespace": "/ATRM/",
+    "devlicense": "18531191373370851361"
+  },
+  {
+    "namespace": "/AWSEX/",
+    "devlicense": "14651386910339465450"
+  },
+  {
+    "namespace": "/AWSLABS/",
+    "devlicense": "08687220553514260293"
+  },
+  {
+    "namespace": "/AWSSAMP/",
+    "devlicense": "13391533940099332908"
+  },
+  {
+    "namespace": "/AWSSOL/",
+    "devlicense": "08428002090177052957"
+  },
+  {
+    "namespace": "/C2A/",
+    "devlicense": "03688288682419678361"
+  },
+  {
+    "namespace": "/CC4A/",
+    "devlicense": "19443791570447289803"
+  },
+  {
+    "namespace": "/OTCT/",
+    "devlicense": "06491018313941499730"
+  },
+  {
+    "namespace": "/RBGRP/",
+    "devlicense": "01116174434106589083"
+  },
+  {
+    "namespace": "/XLWB/",
+    "devlicense": "06882850232695308586"
+  }
+]

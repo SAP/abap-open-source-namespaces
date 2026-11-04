@@ -4,12 +4,36 @@
 
 ## About this project
 
-In response to the suggestions and feedback from our community, SAP made available dedicated [ABAP Open Source Namespaces](https://me.sap.com/namespaces/opensource). The list of already existing namespaces is [available in the Development Namespace Application](https://me.sap.com/namespaces/opensource). In addition, we list them here, including the development and repair keys for DEMOSYSTEM installations like the [ABAP Cloud Developer Trial](https://community.sap.com/t5/technology-blogs-by-sap/abap-cloud-developer-trial-2022-available-now/ba-p/13598069). If you would like to create an own namespace for an open source project, please reach out to the [SAP Open Source Program Office via e-mail](mailto:ospo@sap.com). We’ll be happy to get your project onboarded.
-If you have any questions or feedback regarding ABAP Open Source Namespaces, feel free to post a issue here or [reach out to us via e-mail](mailto:ospo@sap.com).
+SAP provides dedicated [ABAP Open Source Namespaces](https://me.sap.com/namespaces/opensource) exclusively for open source projects. This repository lists all existing namespaces, including development and repair keys for DEMOSYSTEM installations such as the [ABAP Cloud Developer Trial](https://community.sap.com/t5/technology-blog-posts-by-sap/abap-cloud-developer-trial-2025-available-now/ba-p/14376009) (formerly known as miniSAP).
 
-## Requirements and Setup
+## How to Get a Namespace
 
-There are no specific requirements for the request of a new ABAP Open Source Namespace. As outlined [in the official documentation](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/keys/new-request-namespace.pdf), please [reach out to the SAP Open Source Program Office via e-mail](mailto:ospo@sap.com) and mention a few details about your project to get the namespace approved and created.
+The right path for getting an ABAP namespace depends on what you are building. Consider which of the following cases applies to you:
+
+**Commercial development**
+The ABAP Developer Trial is licensed for non-productive use only and cannot serve as the basis for software you sell or deliver to customers. If you are building commercial software, you need a standard SAP commercial license. Request a namespace through the [Development Namespace Application](https://me.sap.com/namespaces) as outlined [in the documentation](https://support.sap.com/content/dam/support/en_us/library/ssp/my-support/keys/new-request-namespace.pdf).
+
+**Personal learning**
+If you are exploring ABAP for your own education and do not plan to share code with others, no namespace registration is required. If you are running a local ABAP system (miniSAP / ABAP Developer Edition), you will need a miniSAP license key — find out how to obtain one [here](https://caldocs.cfapps.eu01.hana.ondemand.com/caldocs/help/Minisap_License_Keys.pdf).
+
+**Open source project**
+If you are publishing your ABAP code as open source (e.g., via abapGit on GitHub), you can request a dedicated ABAP Open Source Namespace through this project. We prefer requests that already have existing code or a credible public project behind them — pure ideation requests may be deferred.
+
+When choosing your namespace, keep the following in mind:
+- Format: `/YOURNS/` — 3 to 8 uppercase letters, enclosed in slashes
+- Must relate to your project or organization name
+- Must not conflict with existing trademarks or well-known names (e.g., namespaces starting with `SAP`, `ABAP`, `AWS` will not be approved)
+- If you have an S-User, please check whether your desired namespace is already taken in the [Development Namespace Application](https://me.sap.com/namespaces) before requesting. All existing open source namespaces are also listed [below](#existing-abap-open-source-namespaces).
+
+To request a namespace, [send us an e-mail](mailto:ospo@sap.com?subject=ABAP%20Open%20Source%20Namespace%20Request&body=Dear%20SAP%20Open%20Source%20Program%20Office%2C%0A%0AI%20would%20like%20to%20request%20an%20ABAP%20Open%20Source%20Namespace%20for%20my%20project.%20Please%20find%20the%20details%20below%3A%0A%0AProject%20name%3A%20%0ARequested%20namespace%3A%20%0AProject%20description%3A%20%0AProject%20URL%3A%20%0AProject%20License%3A%20%0A%0ABest%20regards%2C%0A%5BYour%20name%5D) with the following details:
+
+```
+Project name:
+Requested namespace:
+Project description:
+Project URL:          (e.g. link to GitHub repo or organization)
+Project License:
+```
 
 ## Existing ABAP Open Source Namespaces
 
@@ -40,7 +64,7 @@ This project is open to feature requests/suggestions, bug reports etc. via [GitH
 
 ## Security / Disclosure
 
-If you find any bug that may be a security problem, please follow our instructions at [in our security policy](https://github.com/SAP/abap-open-source-namespaces/security/policy) on how to report it. Please do not create GitHub issues for security-related doubts or problems.
+If you find any bug that may be a security problem, please follow our instructions [in our security policy](https://github.com/SAP/abap-open-source-namespaces/security/policy) on how to report it. Please do not create GitHub issues for security-related doubts or problems.
 
 ## Code of Conduct
 
